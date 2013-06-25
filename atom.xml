@@ -4,7 +4,7 @@
   <title><![CDATA[Recode's Blog]]></title>
   <link href="http://whisper1021.github.io/atom.xml" rel="self"/>
   <link href="http://whisper1021.github.io/"/>
-  <updated>2013-06-25T21:22:55+08:00</updated>
+  <updated>2013-06-25T21:23:52+08:00</updated>
   <id>http://whisper1021.github.io/</id>
   <author>
     <name><![CDATA[whisper]]></name>
@@ -115,8 +115,6 @@
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>$ gem install powder</span></code></pre></td></tr></table></div></figure>
 
-
-<h2>Linode</h2>
 ]]></content>
   </entry>
   
