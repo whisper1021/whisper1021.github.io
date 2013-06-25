@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Recode's Blog]]></title>
-  <link href="http://recoding.github.io/atom.xml" rel="self"/>
-  <link href="http://recoding.github.io/"/>
-  <updated>2013-06-25T20:58:27+08:00</updated>
-  <id>http://recoding.github.io/</id>
+  <link href="http://whisper1021.github.io/atom.xml" rel="self"/>
+  <link href="http://whisper1021.github.io/"/>
+  <updated>2013-06-25T21:01:19+08:00</updated>
+  <id>http://whisper1021.github.io/</id>
   <author>
     <name><![CDATA[whisper]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[在 OSX 10.8.4 下安裝 Rails 開發環境 ]]></title>
-    <link href="http://recoding.github.io/blog/2013/06/20/my-recode-dot-tw/"/>
+    <link href="http://whisper1021.github.io/blog/2013/06/20/my-recode-dot-tw/"/>
     <updated>2013-06-20T14:24:00+08:00</updated>
-    <id>http://recoding.github.io/blog/2013/06/20/my-recode-dot-tw</id>
+    <id>http://whisper1021.github.io/blog/2013/06/20/my-recode-dot-tw</id>
     <content type="html"><![CDATA[<p>首先，安裝最新版本的 Xcode（從 Apple Store 取得）。</p>
 
 <p>安裝 Xcode 內安裝 Command Line Tools，裝完後重新開機。</p>
